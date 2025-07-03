@@ -17,3 +17,14 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+
+Features
+📈 Visualize GDP trends for any country from 1960 to 2022.
+
+🔎 Search and filter countries easily.
+
+🧠 Caching for fast data loading.
+
+⚙️ Built with Python, Pandas, and Streamlit.
+
+📁 Easily customizable and extendable for your own datasets.
